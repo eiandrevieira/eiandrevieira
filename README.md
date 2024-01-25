@@ -24,6 +24,10 @@ Um entusiasta autodidata da programação, este desenvolvedor, muitas vezes nos 
 *Compromisso com o Aprendizado Contínuo:*
 
 Este desenvolvedor demonstra uma mentalidade de aprendizado contínuo, participando ativamente de cursos online, consultando documentações e colaborando com a comunidade para expandir suas habilidades.
+<div>
+  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=eiandrevieira&show_icons=true&border_color=1B1B1B&bg_color=1B1B1B&&text_color=505156&title_color=FFFFFF&icon_color=FFFFFF&PAT_1" /> 
+  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiandrevieira&layout=compact&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF&PAT_1" />
+</div> 
 
 **Contate-me:**
 
@@ -31,7 +35,10 @@ Se você busca um desenvolvedor em ascensão, dedicado ao crescimento contínuo 
 
 <div dir="auto"> 
   <a href="mailto:contatoandrevieirasouza@outlook.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-
+ <a href="https://www.linkedin.com/in/eiandresouza" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 ![image](https://github.com/eiandrevieira/eiandrevieira/assets/132021448/a4e44ddb-db4f-4113-8536-298bb95afa0d)
+![version :01.02.2024](https://img.shields.io/badge/version-01.02.2024-informational)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=eiandrevieira)&nbsp;
+[![GitHub eiandrevieira](https://img.shields.io/github/followers/eiandrevieira?label=follow&style=social)](https://github.com/eiandrevieira)&nbsp;
