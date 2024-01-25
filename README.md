@@ -29,7 +29,9 @@ Este desenvolvedor demonstra uma mentalidade de aprendizado contínuo, participa
 
 Se você busca um desenvolvedor em ascensão, dedicado ao crescimento contínuo e comprometido com projetos inovadores, entre em contato para explorar oportunidades de colaboração:
 
-<div dir="auto"> 
+<div dir="auto">
+  <a href="https://www.behance.net/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/Behance-%23333.svg?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.dribbble.com/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/dribbble-%23333.svg?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/bkcy9sX9TA" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.figma.com/@eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/figma-%23333.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
   <a href="mailto:contatoandrevieirasouza@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
