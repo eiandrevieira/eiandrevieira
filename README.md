@@ -24,9 +24,10 @@ Um entusiasta autodidata da programação, este desenvolvedor, muitas vezes nos 
 *Compromisso com o Aprendizado Contínuo:*
 
 Este desenvolvedor demonstra uma mentalidade de aprendizado contínuo, participando ativamente de cursos online, consultando documentações e colaborando com a comunidade para expandir suas habilidades.
+
 <div>
-  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=eiandrevieira&show_icons=true&border_color=1B1B1B&bg_color=1B1B1B&&text_color=505156&title_color=FFFFFF&icon_color=FFFFFF&PAT_1" /> 
-  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiandrevieira&layout=compact&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF&PAT_1" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=eiandrevieira&show_icons=true&border_color=1B1B1B&bg_color=1B1B1B&&text_color=505156&title_color=FFFFFF&icon_color=FFFFFF&PAT_1" /> 
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiandrevieira&layout=compact&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF&PAT_1" />
 </div> 
 
 **Contate-me:**
