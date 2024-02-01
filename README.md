@@ -34,12 +34,9 @@ Se você busca um desenvolvedor em ascensão, dedicado ao crescimento contínuo 
   <a href="https://www.dribbble.com/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/dribbble-%23333.svg?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/bkcy9sX9TA" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.figma.com/@eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/figma-%23333.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/@eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/facebook-%23333.svg?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="mailto:contatoandrevieirasouza@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23333.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23333.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/Twitch-%23333.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/twitter-%23333.svg?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@eiandrevieira" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23333.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
   
 
